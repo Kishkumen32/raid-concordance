@@ -10,10 +10,7 @@
       "world": "Siren",
       "region": "NA",
       "lodestoneID": 26092605,
-      "fflogsID": 20652757,
-      "aliases": [],
-      "contextualHistoryStart": "2025-03",
-      "tomestone": "https://tomestone.gg/character/26092605/kish-baiheur/activity"
+      "fflogsID": 20652757
     },
     {
       "key": "rhaenyra",
@@ -21,10 +18,7 @@
       "world": "Siren",
       "region": "NA",
       "lodestoneID": 52352817,
-      "fflogsID": 19976345,
-      "aliases": [],
-      "contextualHistoryStart": "2025-06",
-      "tomestone": "https://tomestone.gg/character/52352817/rhaenyra-velaryon/activity"
+      "fflogsID": 19976345
     }
   ],
   "resolvedIdentities": {
@@ -213766,23 +213760,6 @@
   "reportsExamined": 16972,
   "encounterFightsEvaluated": 9086,
   "reportsContainingEncounter": 263,
-  "contextNotes": [
-    "Kish recalls shared DSR progression with Rhaenyra, most recently in November 2025. Participant recollection; not an API-verified timestamp.",
-    "Reported Tomestone history availability: Kish approximately March 2025 onward; Rhaenyra approximately June 2025 onward. Not independently retrieved: both activity pages present a human-verification gate."
-  ],
-  "sourceAccess": [
-    {
-      "source": "Tomestone",
-      "status": "Coverage unavailable",
-      "observedOn": "2026-11-06",
-      "detail": "Both configured activity URLs returned HTTP 200 with an explicit human-verification gate. No activity history was retrieved; no verification cookie was set and no gate was bypassed."
-    }
-  ],
-  "highlight": {
-    "start": "2025-11-01",
-    "end": "2025-12-01",
-    "title": "November 2025 — The Missing Chapter"
-  },
   "coverage": {
     "continuous": false,
     "limitations": [
